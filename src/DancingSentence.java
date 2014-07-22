@@ -23,6 +23,9 @@ public class DancingSentence {
 				if (charnum % 2 == 1) {
 					thechar[i] = Character.toUpperCase(thechar[i]);
 				}
+				else{
+					thechar[i] = Character.toLowerCase(thechar[i]);
+				}
 				charnum ++;
 			}
 		}
