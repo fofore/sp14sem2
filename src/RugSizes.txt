@@ -1,0 +1,265 @@
+4		2		Passed	
+
+
+	8		1		Passed	
+
+
+	30		4		Passed	
+
+
+	100000		6		Passed	
+
+
+	98415		10		Passed	
+
+
+	6241		2		Passed	
+
+
+	99997		3		Passed	
+
+
+	99991		1		Passed	
+
+
+	64		2		Passed	
+
+
+	4096		2		Passed	
+
+
+	8192		1		Passed	
+
+
+	8193		2		Passed	
+
+
+	1		1		Passed	
+
+
+	2		1		Passed	
+
+
+	5		1		Passed	
+
+
+	100000		6		Passed	
+
+
+	1		1		Passed	
+
+
+	26		2		Passed	
+
+
+	16		2		Passed	
+
+
+	15		2		Passed	
+
+
+	30		4		Passed	
+
+
+	9		2		Passed	
+
+
+	21		2		Passed	
+
+
+	10		2		Passed	
+
+
+	99999		6		Passed	
+
+
+	25		2		Passed	
+
+
+	56		2		Passed	
+
+
+	81		3		Passed	
+
+
+	500		4		Passed	
+
+
+	125		2		Passed	
+
+
+	97		1		Passed	
+
+
+	4		2		Passed	
+
+
+	45		3		Passed	
+
+
+	18		3		Passed	
+
+
+	98456		4		Passed	
+
+
+	32420		4		Passed	
+
+
+	6		2		Passed	
+
+
+	121		2		Passed	
+
+
+	36		4		Passed	
+
+
+	35		2		Passed	
+
+
+	12		2		Passed	
+
+
+	72		3		Passed	
+
+
+	41472		5		Passed	
+
+
+	27		2		Passed	
+
+
+	20		2		Passed	
+
+
+	1296		6		Passed	
+
+
+	64		2		Passed	
+
+
+	194		2		Passed	
+
+
+	2		1		Passed	
+
+
+	54		4		Passed	
+
+
+	100		4		Passed	
+
+
+	1365		8		Passed	
+
+
+	100000		6		Passed	
+
+
+	1		1		Passed	
+
+
+	26		2		Passed	
+
+
+	16		2		Passed	
+
+
+	15		2		Passed	
+
+
+	30		4		Passed	
+
+
+	9		2		Passed	
+
+
+	21		2		Passed	
+
+
+	10		2		Passed	
+
+
+	99999		6		Passed	
+
+
+	25		2		Passed	
+
+
+	56		2		Passed	
+
+
+	81		3		Passed	
+
+
+	500		4		Passed	
+
+
+	125		2		Passed	
+
+
+	97		1		Passed	
+
+
+	4		2		Passed	
+
+
+	45		3		Passed	
+
+
+	18		3		Passed	
+
+
+	98456		4		Passed	
+
+
+	32420		4		Passed	
+
+
+	6		2		Passed	
+
+
+	121		2		Passed	
+
+
+	36		4		Passed	
+
+
+	35		2		Passed	
+
+
+	12		2		Passed	
+
+
+	72		3		Passed	
+
+
+	41472		5		Passed	
+
+
+	27		2		Passed	
+
+
+	20		2		Passed	
+
+
+	1296		6		Passed	
+
+
+	64		2		Passed	
+
+
+	194		2		Passed	
+
+
+	2		1		Passed	
+
+
+	54		4		Passed	
+
+
+	100		4		Passed	
+
+
+	1365		8		Passed

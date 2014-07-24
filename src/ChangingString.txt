@@ -1,0 +1,301 @@
+"ab", "ba", 2		0		Passed	
+
+
+	"aa", "aa", 2		2		Passed	
+
+
+	"aaa", "baz", 1		1		Passed	
+
+
+	"fdfdfdfdfdsfabasd", "jhlakfjdklsakdjfk", 8		24		Passed	
+
+
+	"aa", "bb", 2		0		Passed	
+
+
+	"xuhpjidxepnmkllyqewfypbicxwhosihrjeqmolcchyqfaoof", "cukbhecbdllpmpfmaxjkindzggjgiazmvcqpfbchfqhtxshmx", 32		36		Passed	
+
+
+	"cjvdejraxtpvv", "pdqbwxbihxnmu", 11		3		Passed	
+
+
+	"rruktgimfhtucub", "phdyzkmmodrdypj", 13		2		Passed	
+
+
+	"gctetkofsogbaowrote", "nypcvhpwgtgdxzjyyus", 13		8		Passed	
+
+
+	"cjviumyluukooirqpmiwfuicakgrvvrxmtavbnoo", "hrslxpnknejtdxwtqoaexsegcqzsccitfonlpxej", 31		16		Passed	
+
+
+	"qbpufutmanhkfdspzfxqqygygetufqhuzum", "zpmlodywiqhsahydcqligquutydgrzjamec", 11		177		Passed	
+
+
+	"komxbzwuntbdeyaqkdlovctdmvjmkejaekqcykwlvbrnckxee", "fmomwhuoobnmspacwadtyeuqdtbeksabuxgtojkwpjdevhodg", 20		125		Passed	
+
+
+	"bchxsxqdfsrqargrnumqgnsbunkggpkwmgladjcsvq", "ebkbqacubfjyryouyhtgzzsmbfcdbocthqekneefll", 30		30		Passed	
+
+
+	"ixsxbupspgfht", "ebvjcpcwjaudy", 7		21		Passed	
+
+
+	"boxacdyvwdrnzchsdfdvskebolpdbhvjjtwzumng", "dplbqhkdjoeuksvgplarcorrddszibxejjilkxwa", 10		220		Passed	
+
+
+	"fyxlulzv", "cqjrjhca", 2		46		Passed	
+
+
+	"ricmkdaqatyykbxebbrppckrcpgsqihjikkpmqrjzggjjcczii", "qrjysnugfqepyaxcvntutexfmzivjpwbdtkdnuuhxeykmhtbao", 34		27		Passed	
+
+
+	"mtphpjfablhhmpiaueemafwdkmlvpxjppz", "olnowgriiveqnfejrgphrcalmpoqhiszao", 11		112		Passed	
+
+
+	"fbs", "wns", 3		1		Passed	
+
+
+	"uhufgdqwxedbmattu", "vqxmywvxophecljne", 8		39		Passed	
+
+
+	"qjumutuzhputgkgtztfumkdoowdkeoknjhummwultpngxrnyi", "qldhneykwjcblpevqsdxdkghpnssyyzdaiyqffpavhjyjfmzt", 14		167		Passed	
+
+
+	"wweqzsuthwzmkcsvtslfbphvgnzcdbqigrngdxqpetjg", "vmoazgsponlpkhjwxhhuaekhybdctzbixxxwmhvwixbg", 34		8		Passed	
+
+
+	"kztqosdnchhfhpvowcqowoyxyiqkjijmx", "xosplcwspdaryewfogeznvgluecqjujdc", 11		127		Passed	
+
+
+	"mrqvhhtztnwqqnmpvytabfkciikqfyfmwkcovxjprmqasa", "vhmtvktxhjbrwbgjykxzmgxrfelqgxdhqdwsyvpzbcyylp", 2		304		Passed	
+
+
+	"jodxanidmdfo", "uunxmclmqfmt", 9		5		Passed	
+
+
+	"pqlclarsgdeisrgjjpkgmlauurggtqcjeqqgoorigoi", "mhhkhgichkagkfclddhccdbhkekgcmnejjnlggankmk", 4		223		Passed	
+
+
+	"ndkbmaolmfdccmbjeojjdmfjjdlbddglffeheldcjhh", "pgcouhjstqdudaglhcuobtfgrdspeuiceakrdmnkshp", 29		16		Passed	
+
+
+	"defedbbefdbeadcfbeaefdbfbe", "aachhjdjackahjjbhjedcjjhgk", 1		112		Passed	
+
+
+	"cefeaacbdcaabeceaebcdcbbbadccaaaceb", "aqomghqncgljlikfkoaanbcfomhkeblfoln", 15		77		Passed	
+
+
+	"fjdkhkhriceeocckdlneloccrrakkn", "wtfckfvzhnzswyfyoaptbyusuottzj", 25		11		Passed	
+
+
+	"nwjerwycjbllvjfsgn", "afacefceabeffebbag", 11		25		Passed	
+
+
+	"cndfnngcghgfebldfkeddhklec", "cdaabbbbddbdbbcccdbbcbdbad", 19		6		Passed	
+
+
+	"coaolicefhaiglboh", "abaabbbabbbbababa", 1		92		Passed	
+
+
+	"dqlalimglockrhmimmmqhldfsn", "fblpnqgrfsrlwehhcbukadgxfb", 16		26		Passed	
+
+
+	"iag", "edc", 2		3		Passed	
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "bbbabbbbabbbaabaaaabbbbaabaabba", 1		17		Passed	
+
+
+	"gebdcedf", "dbaceaab", 2		13		Passed	
+
+
+	"nathaicbkoniiualcncpmmehkpigoieglobktcempe", "edcaacebfebcbfedcfcafbbcdbefebadfecafdfbde", 7		177		Passed	
+
+
+	"ihpatoiltegbnuqhgbkrbheebjfcahmdsbug", "dddfcbbaacfacaaaccedecaeddcfbbeeabea", 8		125		Passed	
+
+
+	"cdacdabdeecaaaedaedd", "eicfffechhbibbeihfib", 9		16		Passed	
+
+
+	"adbiihdedghjifecjicgfaiheffccjgjfjcg", "kefgedbdfgdidhdacbbfdbdecdkggcjcighk", 17		32		Passed	
+
+
+	"mdcskfrgskjatgksfqjuflcjflqgsrdcg", "rkssfiasiilabfaeehetmqafldlchhhtf", 20		25		Passed	
+
+
+	"hfgsbdrehoonfqbrllqdhci", "cijtcaaabcbtnlzgkbbdgfr", 14		16		Passed	
+
+
+	"aabbecddaaccdcaab", "ldjjfacgnilaflllf", 9		18		Passed	
+
+
+	"lbccmhnbb", "deaebeadd", 1		33		Passed	
+
+
+	"aaaabcd", "aabcaaa", 6		1		Passed	
+
+
+	"asdfqqerereqwer", "asveqqregreqwer", 8		3		Passed	
+
+
+	"asdfqqerereqwer", "asveqqregreqwer", 5		0		Passed	
+
+
+	"asdfqqerereqwer", "asveqqregreqwer", 10		5		Passed	
+
+
+	"az", "az", 2		2		Passed	
+
+
+	"ac", "ad", 2		1		Passed	
+
+
+	"aaaa", "zzzz", 1		75		Passed	
+
+
+	"asdhashdkjd", "aejqwkehqcn", 4		34		Passed	
+
+
+	"baa", "aaa", 3		2		Passed	
+
+
+	"aa", "aa", 2		2		Passed	
+
+
+	"aaaa", "aaaa", 2		2		Passed	
+
+
+	"zzzzzz", "aaasdc", 2		77		Passed	
+
+
+	"ab", "aa", 2		1		Passed	
+
+
+	"a", "a", 1		1		Passed	
+
+
+	"aaa", "xzx", 2		23		Passed	
+
+
+	"aaa", "aza", 2		1		Passed	
+
+
+	"aa", "az", 2		1		Passed	
+
+
+	"aab", "aaa", 2		1		Passed	
+
+
+	"aaaaa", "aaaaa", 3		3		Passed	
+
+
+	"aaa", "aaz", 3		2		Passed	
+
+
+	"abc", "bba", 3		1		Passed	
+
+
+	"aa", "aa", 1		1		Passed	
+
+
+	"abc", "aba", 2		1		Passed	
+
+
+	"ab", "ab", 1		1		Passed	
+
+
+	"aab", "aac", 3		2		Passed	
+
+
+	"cccccc", "cccccc", 4		4		Passed	
+
+
+	"ab", "ab", 2		2		Passed	
+
+
+	"abc", "abd", 2		1		Passed	
+
+
+	"bcda", "aaaa", 1		3		Passed	
+
+
+	"a", "m", 1		0		Passed	
+
+
+	"zzaz", "zzcz", 4		3		Passed	
+
+
+	"zza", "zzc", 3		2		Passed	
+
+
+	"aaaaaaaaaa", "aaaaaaaaaa", 4		4		Passed	
+
+
+	"aaaaaaaa", "aaaaaaaa", 8		8		Passed	
+
+
+	"fdfdfdfdfdsfabasd", "jhlakfjdklsakdjfk", 8		24		Passed	
+
+
+	"aaa", "baz", 1		1		Passed	
+
+
+	"aaaaaaaaaabbb", "aaaaaaaabbbbb", 7		5		Passed	
+
+
+	"aad", "afd", 2		1		Passed	
+
+
+	"ba", "aa", 2		1		Passed	
+
+
+	"aaab", "aaaa", 2		1		Passed	
+
+
+	"aaaa", "zzzz", 2		50		Passed	
+
+
+	"cdefg", "avcde", 1		8		Passed	
+
+
+	"aaaaacc", "aaaaabb", 4		2		Passed	
+
+
+	"aaaa", "aaad", 2		1		Passed	
+
+
+	"aaa", "aaa", 3		3		Passed	
+
+
+	"aaa", "aab", 3		2		Passed	
+
+
+	"abcde", "abcde", 5		5		Passed	
+
+
+	"z", "x", 1		0		Passed	
+
+
+	"aabbc", "aabbd", 3		2		Passed	
+
+
+	"aaaaaab", "aaaaaac", 2		1		Passed	
+
+
+	"aaa", "aab", 2		1		Passed	
+
+
+	"aaaa", "aaaa", 3		3		Passed	
+
+
+	"aaaaa", "aaaab", 3		2		Passed	
+
+
+	"aaaaaaaaa", "aaaaabbbb", 7		3		Passed	
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaaaaa", "zzzzzzzzzzzzzzzzzzzzzzzzzzz", 3		600		Passed	
+
+
+	"zz", "zz", 1		1		Passed
