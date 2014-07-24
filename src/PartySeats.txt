@@ -1,0 +1,106 @@
+{"BOB boy", "SAM girl", "DAVE boy", "JO girl"}		{"HOST", "JO", "BOB", "HOSTESS", "DAVE", "SAM"}		Passed	
+
+
+	{"JOHN boy"}		{}		Passed	
+
+
+	{"JOHN boy", "CARLA girl"}		{}		Passed	
+
+
+	{"BOB boy", "SUZIE girl", "DAVE boy", "JO girl", "AL boy", "BOB boy", "CARLA girl", "DEBBIE girl"}		{"HOST", "CARLA", "AL", "DEBBIE", "BOB", "HOSTESS", "BOB", "JO", "DAVE", "SUZIE"}		Passed	
+
+
+	{"X girl", "T boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy", "J girl", "G boy"}		{"HOST", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "HOSTESS", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "G", "J", "T", "X"}		Passed	
+
+
+	{"A boy", "S boy", "AA boy", "K boy", "ZZ girl", "YY girl", "XX girl", "VV girl"}		{"HOST", "VV", "A", "XX", "AA", "HOSTESS", "K", "YY", "S", "ZZ"}		Passed	
+
+
+	{"BOB boy", "AM girl", "DAVE boy", "JO girl"}		{"HOST", "AM", "BOB", "HOSTESS", "DAVE", "JO"}		Passed	
+
+
+	{"ROB boy", "AM girl", "DAVE boy", "JO girl"}		{"HOST", "AM", "DAVE", "HOSTESS", "ROB", "JO"}		Passed	
+
+
+	{"AM girl", "ROB boy", "AM girl", "DAVE boy", "JO girl"}		{}		Passed	
+
+
+	{"AM girl", "ROB boy", "JIM boy", "AM girl", "DAVE boy", "JO girl"}		{}		Passed	
+
+
+	{"ROB boy", "AM girl", "JO girl", "DAVE boy"}		{"HOST", "AM", "DAVE", "HOSTESS", "ROB", "JO"}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "JOHN boy", "BILL boy", "DEE girl", "JUNE girl", "JO girl", "A boy", "B boy", "C girl", "D girl"}		{"HOST", "C", "A", "D", "B", "DEE", "BILL", "HOSTESS", "BOB", "JO", "DAVE", "JUNE", "JOHN", "SAM"}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "JOHN boy", "BILL boy", "DEE girl", "JUNE girl", "JO girl", "A boy", "B boy", "C boy", "D girl"}		{}		Passed	
+
+
+	{"BOB boy", "SAM boy", "DAVE boy", "JOHN boy", "BILL boy", "DEE boy", "JUNE girl", "JO girl", "A girl", "B girl", "C girl", "D girl"}		{"HOST", "A", "BILL", "B", "BOB", "C", "DAVE", "HOSTESS", "DEE", "D", "JOHN", "JO", "SAM", "JUNE"}		Passed	
+
+
+	{"BOB girl", "SAM girl", "DAVE boy", "JOHN boy", "BILL boy", "DEE girl", "JUNE girl", "JO girl", "A boy", "B boy", "C girl", "D boy"}		{"HOST", "BOB", "A", "C", "B", "DEE", "BILL", "HOSTESS", "D", "JO", "DAVE", "JUNE", "JOHN", "SAM"}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "JOHN boy", "BILL boy", "DEE girl", "JUNE girl", "JO girl", "A boy", "B boy", "C girl", "D girl", "D boy", "D boy", "D girl", "D girl"}		{"HOST", "C", "A", "D", "B", "D", "BILL", "D", "BOB", "HOSTESS", "D", "DEE", "D", "JO", "DAVE", "JUNE", "JOHN", "SAM"}		Passed	
+
+
+	{"BOB boy", "DEE girl", "JUNE girl", "JO girl", "A boy", "B boy", "C girl", "D girl"}		{}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "JOHN girl", "BILL boy", "DEE girl", "JUNE boy", "JO girl", "A boy", "B girl", "C boy", "D girl"}		{"HOST", "B", "A", "D", "BILL", "DEE", "BOB", "HOSTESS", "C", "JO", "DAVE", "JOHN", "JUNE", "SAM"}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVEDAVEDAVEDAVEDAVE boy", "JOHN boy", "BILL boy", "DEE boy", "JUNE girl", "JO girl", "A boy", "B girl", "C girl", "D girl"}		{"HOST", "B", "A", "C", "BILL", "D", "BOB", "HOSTESS", "DAVEDAVEDAVEDAVEDAVE", "JO", "DEE", "JUNE", "JOHN", "SAM"}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "C girl", "D girl"}		{}		Passed	
+
+
+	{"JOHN boy", "CARLA girl"}		{}		Passed	
+
+
+	{"A boy", "B girl", "C boy", "D girl", "E boy", "F girl"}		{}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "JO girl"}		{"HOST", "JO", "BOB", "HOSTESS", "DAVE", "SAM"}		Passed	
+
+
+	{"ALOK girl", "AMIT girl", "SURESH girl"}		{}		Passed	
+
+
+	{"BOB boy", "BOB boy", "JILL boy", "JILL boy"}		{}		Passed	
+
+
+	{"A boy", "G boy", "E boy", "Y girl", "U girl", "R girl"}		{}		Passed	
+
+
+	{"A boy", "B boy", "C boy", "D girl", "E girl", "F girl"}		{}		Passed	
+
+
+	{"ABC girl", "BXC boy", "ALJS girl", "SDF boy", "AEEEE boy", "ABEEE boy"}		{}		Passed	
+
+
+	{"BOB boy", "ACE boy", "TOM boy", "GILL girl", "ANA girl", "JANNY girl"}		{}		Passed	
+
+
+	{"ALICE boy", "BOB girl"}		{}		Passed	
+
+
+	{"JANE girl", "MIKE boy", "BOYD boy", "SEAGIRL girl"}		{"HOST", "JANE", "BOYD", "HOSTESS", "MIKE", "SEAGIRL"}		Passed	
+
+
+	{"A boy", "B boy", "C boy", "W girl", "R girl", "T girl"}		{}		Passed	
+
+
+	{"BOB boy", "SUZIE girl", "DAVE boy", "JO girl", "AL boy", "BOB boy", "CARLA girl", "DEBBIE girl"}		{"HOST", "CARLA", "AL", "DEBBIE", "BOB", "HOSTESS", "BOB", "JO", "DAVE", "SUZIE"}		Passed	
+
+
+	{"A boy", "B boy", "C boy", "E girl", "F girl", "T girl"}		{}		Passed	
+
+
+	{"BOB boy", "SAM girl", "DAVE boy", "JO girl", "HOWARD boy", "JANE girl"}		{}		Passed	
+
+
+	{"TEST girl", "TEST girl", "TEST girl", "TEST boy", "TEST boy", "TEST boy"}		{}		Passed	Pgg:

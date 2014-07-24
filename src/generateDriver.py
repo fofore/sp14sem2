@@ -71,8 +71,10 @@ def buildSection(counter, input_type, input, output_type, output):
 
 	section += 'tmpVal = test.%s(%s);\n'%(method_name, inString)
 	section += 'System.out.println("Output expected: " + out%d + " Output recieved: " + tmpVal );\n'%counter
-	if output_type is "String":
+	if output_type == "String" :
 		section += 'result = tmpVal.equals(out%d);\n'%counter
+	elif output_type  == "String[]":
+		section +=  'result = Arrays.equals(tmpVal, out%d);\n'%counter
 	else:
 		section += 'result = tmpVal == out%d;\n'%counter
 	section += 'if (result) { mark++;}\n'
@@ -85,7 +87,9 @@ def buildSection(counter, input_type, input, output_type, output):
 
 def buildHead():
 	global class_name
-	section = 'public class %sDriver {\n'%class_name
+	section = "import java.util.*;\n"
+	section += '\n'
+	section += 'public class %sDriver {\n'%class_name
 	section += 'public static void main(String [] args){\n'
 	section += '%s test;\n'%class_name
    	section += 'int mark = 0;\n'
@@ -124,6 +128,7 @@ def buildVarSection(counter, typeOfInput, inputString):
 		splitChar = ','
 		if len(sys.argv) > 3+numOfInputs+1+1:
 			splitChar = sys.argv[3+numOfInputs+1+1]
+			print splitChar + 'here is me'
 		inputList = [x.strip() for x in inputString.split(splitChar)]
 	else:
 		section = typeOfInput[0] + ' in' + str(counter) + '0'  + ' = ' + inputString + ';\n';
