@@ -29,7 +29,25 @@ def debug():
 	print output_type
 	print '\n'
 
-
+def readDataAgain(data):
+	global splitChar
+	for line in data:
+		change = True;
+		linelist = list(line[0])
+		#print linelist
+		#print line[0]
+		counter = 0
+		for char in linelist:
+			if char == "{":
+				change = False;
+			if char == "}":
+				change = True;
+			if char == "," and change == True:
+				linelist[counter] = splitChar 
+			counter += 1
+		line[0] = ''.join(linelist)
+		print line
+	return data;
 
 def readData():
 	'''
@@ -123,12 +141,10 @@ def buildWhole(data, numOfInputs, typeOfInput, typeOfOutput):
 def buildVarSection(counter, typeOfInput, inputString):
 	section = '' 
 	global numOfInputs
+	global splitChar
 	if numOfInputs != 1:
 		#here to input the costomer split charactor.
-		splitChar = ','
-		if len(sys.argv) > 3+numOfInputs+1+1:
-			splitChar = sys.argv[3+numOfInputs+1+1]
-			print splitChar + 'here is me'
+			#print splitChar + 'here is me'
 		inputList = [x.strip() for x in inputString.split(splitChar)]
 	else:
 		section = typeOfInput[0] + ' in' + str(counter) + '0'  + ' = ' + inputString + ';\n';
@@ -144,4 +160,9 @@ def buildVarSection(counter, typeOfInput, inputString):
 
 debug()
 data = readData()
+if numOfInputs != 1:
+	splitChar = ','
+	if len(sys.argv) > 3+numOfInputs+1+1:
+		splitChar = sys.argv[3+numOfInputs+1+1]
+		data = readDataAgain(data)
 buildWhole(data, numOfInputs, input_type, output_type)

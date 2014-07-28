@@ -79,7 +79,11 @@ def buildSection(counter, input_type, input, output_type, output):
 
 	section += 'tmpVal = test.%s(%s);\n'%(method_name, inString)
 	section += 'System.out.println("Output expected: " + out%d + " Output recieved: " + tmpVal );\n'%counter
-	section += 'result = tmpVal == out%d;\n'%counter
+	cpString = 'tmpVal == out%d;\n'%counter
+	print 'here is' + output_type
+	if output_type is 'String[]':
+		cpString = 'tmpVal.equals(out%d);\n'%counter
+	section += 'result = %s'%cpString
 	section += 'if (result) { mark++;}\n'
 	section += 'else{System.out.println("failed test");\n'
 	section += 'System.out.println("total_marks: " + mark);\n'
