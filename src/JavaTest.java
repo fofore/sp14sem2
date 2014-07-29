@@ -7,6 +7,7 @@ public class JavaTest {
 		String b = Integer.toString(a);
 		for (int i = 0; i < b.toCharArray().length; i++) {
 			System.out.println(b.toCharArray()[i]);
+			System.out.println("Test the travis");
 		}
 	}
 
