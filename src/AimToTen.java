@@ -14,7 +14,6 @@ public class AimToTen {
 		System.out.println(need(marks3));
 		int[] marks4 = {10, 10, 10, 10};
 		System.out.println(need(marks4));
-
 	}
 	
 	public static int  need(int [] marks) {

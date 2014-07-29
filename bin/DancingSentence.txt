@@ -1,0 +1,328 @@
+
+	"This is a dancing sentence"		"ThIs Is A dAnCiNg SeNtEnCe"		Passed	
+
+
+	" This is a dancing sentence "		" ThIs Is A dAnCiNg SeNtEnCe "		Passed	
+
+
+	"aaaaaaaaaaa"		"AaAaAaAaAaA"		Passed	
+
+
+	"z"		"Z"		Passed	
+
+
+	" a"		" A"		Passed	
+
+
+	" A"		" A"		Passed	
+
+
+	"a "		"A "		Passed	
+
+
+	"A "		"A "		Passed	
+
+
+	" z "		" Z "		Passed	
+
+
+	" Z "		" Z "		Passed	
+
+
+	" z "		" Z "		Passed	
+
+
+	" Z "		" Z "		Passed	
+
+
+	"r"		"R"		Passed	
+
+
+	"R"		"R"		Passed	
+
+
+	"rr"		"Rr"		Passed	
+
+
+	"rR"		"Rr"		Passed	
+
+
+	"Rr"		"Rr"		Passed	
+
+
+	"RR"		"Rr"		Passed	
+
+
+	"RRR"		"RrR"		Passed	
+
+
+	"FMzLNyIR FeOdTaKBzPIkple hrVtuwR d kmXfBSGRazmtJC"		"FmZlNyIr FeOdTaKbZpIkPlE hRvTuWr D kMxFbSgRaZmTjC"		Passed	
+
+
+	"fl dFnxhBkmvUh"		"Fl DfNxHbKmVuH"		Passed	
+
+
+	"FciDhA EjJZVsg DClylMYvJ BxXQuw fD CeYx spbZ h"		"FcIdHa EjJzVsG dClYlMyVj BxXqUw Fd CeYx SpBz H"		Passed	
+
+
+	"CqEgtDu IGeEuci"		"CqEgTdU iGeEuCi"		Passed	
+
+
+	"tY eycWSY Oqpz "		"Ty EyCwSy OqPz "		Passed	
+
+
+	"tLJvR yraZDPyQQHc"		"TlJvR yRaZdPyQqHc"		Passed	
+
+
+	"cplwPppFIUvhCHCaTFmdVHAf"		"CpLwPpPfIuVhChCaTfMdVhAf"		Passed	
+
+
+	"jAfWhqgQtXGFsnSHOm mGNeiGAg njekasM "		"JaFwHqGqTxGfSnShOm MgNeIgAg NjEkAsM "		Passed	
+
+
+	"lkrBYRZ hHsCR SzI teDjiIFyc IYGyUZY nc EbntX"		"LkRbYrZ hHsCr SzI tEdJiIfYc IyGyUzY nC eBnTx"		Passed	
+
+
+	" HDUehUGk xZgOcXOulrYScFm VDLB DiWV"		" HdUeHuGk XzGoCxOuLrYsCfM vDlB dIwV"		Passed	
+
+
+	"IEHAQBFfRHkK"		"IeHaQbFfRhKk"		Passed	
+
+
+	"Vy RGSpMfdMOiXEg uit"		"Vy RgSpMfDmOiXeG uIt"		Passed	
+
+
+	"qoqLvbzjchYfoPcxUeCxE ahzFXHhamP"		"QoQlVbZjChYfOpCxUeCxE aHzFxHhAmP"		Passed	
+
+
+	"FbOB jQ"		"FbOb Jq"		Passed	
+
+
+	"NZ PtdorzsNHBXMsByJoWSOkooj "		"Nz PtDoRzSnHbXmSbYjOwSoKoOj "		Passed	
+
+
+	"RolkeHaljRxEAp "		"RoLkEhAlJrXeAp "		Passed	
+
+
+	" D"		" D"		Passed	
+
+
+	"wuo shHkN RkC"		"WuO sHhKn RkC"		Passed	
+
+
+	"zECJAdUg orH"		"ZeCjAdUg OrH"		Passed	
+
+
+	"zc xMTQjbMBmsjhIBOe nwXcEjBYrRIs"		"Zc XmTqJbMbMsJhIbOe NwXcEjByRrIs"		Passed	
+
+
+	"CQmBJQDaGvLczgvSg"		"CqMbJqDaGvLcZgVsG"		Passed	
+
+
+	"kDRrUycYCOdTYIZnW e yS"		"KdRrUyCyCoDtYiZnW e Ys"		Passed	
+
+
+	"k wqDnDXnZJr MtQukHYdbPHrysouZpWamZWhHhrDTDYgv"		"K wQdNdXnZjR mTqUkHyDbPhRySoUzPwAmZwHhHrDtDyGv"		Passed	
+
+
+	"DBSaisvXBynGeuKI fwYhpsQQd"		"DbSaIsVxByNgEuKi FwYhPsQqD"		Passed	
+
+
+	"POLZJbV"		"PoLzJbV"		Passed	
+
+
+	"vJvGQh kNhICqq cWixJ "		"VjVgQh KnHiCqQ cWiXj "		Passed	
+
+
+	"ASaEKYuJenWbYPRTMmiEDiEHuhjpwm Px"		"AsAeKyUjEnWbYpRtMmIeDiEhUhJpWm Px"		Passed	
+
+
+	"rLx pDLA RxdMQK q kyKztZ XltV lCWmkPBuTREDnyOnp "		"RlX pDlA rXdMqK q KyKzTz XlTv LcWmKpBuTrEdNyOnP "		Passed	
+
+
+	"WQas WddOmc"		"WqAs WdDoMc"		Passed	
+
+
+	"kFuhwcoPPBPzDd QrhOwspBZc QhBM d"		"KfUhWcOpPbPzDd QrHoWsPbZc QhBm D"		Passed	
+
+
+	"L yiy n OFQ I Gqee Z Zm loKXf"		"L yIy N oFq I gQeE z Zm LoKxF"		Passed	
+
+
+	"O FJ kIr X E yuk "		"O fJ kIr X e YuK "		Passed	
+
+
+	"diI k r BM QJ c fd G x A PW"		"DiI k R bM qJ c Fd G x A pW"		Passed	
+
+
+	"dn "		"Dn "		Passed	
+
+
+	"W MLs L II Gq syR p NB UF x U jd U E FJ"		"W mLs L iI gQ sYr P nB uF x U jD u E fJ"		Passed	
+
+
+	"J Nks qZ PDYqb z O w L w "		"J nKs Qz PdYqB z O w L w "		Passed	
+
+
+	" SXq oCvr c Z m "		" SxQ oCvR c Z m "		Passed	
+
+
+	" nRal yOZ gc m DhIrL OlX"		" NrAl YoZ gC m DhIrL oLx"		Passed	
+
+
+	" e HD i Vl o A lC Au "		" E hD i Vl O a Lc Au "		Passed	
+
+
+	" t s eJnFo HKF C k K XftjQY "		" T s EjNfO hKf C k K xFtJqY "		Passed	
+
+
+	"EdNns q"		"EdNnS q"		Passed	
+
+
+	" C yqdO"		" C yQdO"		Passed	
+
+
+	" p h "		" P h "		Passed	
+
+
+	" d w i K h M C HH iI p Cv X Xba BN f "		" D w I k H m C hH iI p Cv X xBa Bn F "		Passed	
+
+
+	"x z z E B icGr hlWQ W QoRr I"		"X z Z e B iCgR hLwQ w QoRr I"		Passed	
+
+
+	"G w s Mgf l t vc AZZw K"		"G w S mGf L t Vc AzZw K"		Passed	
+
+
+	"n l rCQLD ZUunPH D VdfU do X a "		"N l RcQlD zUuNpH d VdFu Do X a "		Passed	
+
+
+	"vv U SQ iQGg B xGG Eij A aB Y S fq"		"Vv U sQ iQgG b XgG eIj A aB y S fQ"		Passed	
+
+
+	" RzE kr F v l nh q f "		" RzE kR f V l Nh Q f "		Passed	
+
+
+	" X dZz dK QJ e qjL "		" X dZz Dk Qj E qJl "		Passed	
+
+
+	"CC uL Y jM"		"Cc Ul Y jM"		Passed	
+
+
+	"j yQ bJ t KaM wg "		"J yQ bJ t KaM wG "		Passed	
+
+
+	" j C t sB B "		" J c T sB b "		Passed	
+
+
+	" l D"		" L d"		Passed	
+
+
+	"f i W b q D Dxs V pF b vLJ Vikh "		"F i W b Q d DxS v Pf B vLj ViKh "		Passed	
+
+
+	" chh N "		" ChH n "		Passed	
+
+
+	" gYsN ibj pLMB qg g "		" GySn IbJ pLmB qG g "		Passed	
+
+
+	" a exQGG lTAdZX R Xsy c U cT TM M"		" A eXqGg LtAdZx R xSy C u Ct Tm M"		Passed	
+
+
+	"eA mpr H V N N qH "		"Ea MpR h V n N qH "		Passed	
+
+
+	"r z u T"		"R z U t"		Passed	
+
+
+	" This is a dancing sentence "		" ThIs Is A dAnCiNg SeNtEnCe "		Passed	
+
+
+	"abc"		"AbC"		Passed	
+
+
+	"aaaaaaaaaaa"		"AaAaAaAaAaA"		Passed	
+
+
+	"ZZ"		"Zz"		Passed	
+
+
+	" this is a dancing sentence"		" ThIs Is A dAnCiNg SeNtEnCe"		Passed	
+
+
+	" a"		" A"		Passed	
+
+
+	"AAA"		"AaA"		Passed	
+
+
+	"XXX"		"XxX"		Passed	
+
+
+	"a aa"		"A aA"		Passed	
+
+
+	"The quick brown fox jumped over the lazy dog"		"ThE qUiCk BrOwN fOx JuMpEd OvEr ThE lAzY dOg"		Passed	
+
+
+	"a a a a a a a a a"		"A a A a A a A a A"		Passed	
+
+
+	" a S S S aaa"		" A s S s AaA"		Passed	
+
+
+	"aA"		"Aa"		Passed	
+
+
+	"AAAAA"		"AaAaA"		Passed	
+
+
+	"aaaaaaaaaaaaaaaaa"		"AaAaAaAaAaAaAaAaA"		Passed	
+
+
+	"aB"		"Ab"		Passed	
+
+
+	"fgfdsgdfg"		"FgFdSgDfG"		Passed	
+
+
+	"ab"		"Ab"		Passed	
+
+
+	"A b"		"A b"		Passed	
+
+
+	" Z Z Z Z"		" Z z Z z"		Passed	
+
+
+	"z z"		"Z z"		Passed	
+
+
+	" Aa"		" Aa"		Passed	
+
+
+	"AB"		"Ab"		Passed	
+
+
+	"AAAA"		"AaAa"		Passed	
+
+
+	"BBBBBBBBBB"		"BbBbBbBbBb"		Passed	
+
+
+	"AAaA"		"AaAa"		Passed	
+
+
+	"DGDFSGDFSGDF"		"DgDfSgDfSgDf"		Passed	
+
+
+	"AAAAAA"		"AaAaAa"		Passed	
+
+
+	" tHiS is wrong"		" ThIs Is WrOnG"		Passed	
+
+
+	"Abc"		"AbC"		Passed	
+
+

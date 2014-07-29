@@ -1,0 +1,319 @@
+"59:56"		4		Passed	
+
+
+	"59:59"		6		Passed	
+
+
+	"00:00"		6		Passed	
+
+
+	"00:56"		10		Passed	
+
+
+	"12:13"		8		Passed	
+
+
+	"12:34"		10		Passed	
+
+
+	"33:12"		8		Passed	
+
+
+	"49:18"		10		Passed	
+
+
+	"10:23"		10		Passed	
+
+
+	"02:37"		10		Passed	
+
+
+	"02:22"		10		Passed	
+
+
+	"01:55"		10		Passed	
+
+
+	"02:41"		10		Passed	
+
+
+	"43:47"		8		Passed	
+
+
+	"14:29"		10		Passed	
+
+
+	"24:39"		8		Passed	
+
+
+	"33:46"		8		Passed	
+
+
+	"16:35"		9		Passed	
+
+
+	"50:45"		10		Passed	
+
+
+	"29:29"		10		Passed	
+
+
+	"41:47"		8		Passed	
+
+
+	"01:39"		10		Passed	
+
+
+	"15:51"		8		Passed	
+
+
+	"44:08"		8		Passed	
+
+
+	"02:48"		10		Passed	
+
+
+	"50:54"		10		Passed	
+
+
+	"20:48"		10		Passed	
+
+
+	"17:47"		8		Passed	
+
+
+	"41:04"		7		Passed	
+
+
+	"32:00"		10		Passed	
+
+
+	"45:10"		10		Passed	
+
+
+	"58:41"		10		Passed	
+
+
+	"23:03"		8		Passed	
+
+
+	"44:43"		6		Passed	
+
+
+	"51:30"		10		Passed	
+
+
+	"58:26"		10		Passed	
+
+
+	"39:45"		10		Passed	
+
+
+	"21:27"		10		Passed	
+
+
+	"51:32"		10		Passed	
+
+
+	"43:49"		10		Passed	
+
+
+	"48:13"		9		Passed	
+
+
+	"58:30"		10		Passed	
+
+
+	"01:01"		9		Passed	
+
+
+	"34:51"		9		Passed	
+
+
+	"40:12"		10		Passed	
+
+
+	"44:22"		8		Passed	
+
+
+	"29:18"		10		Passed	
+
+
+	"48:40"		10		Passed	
+
+
+	"04:29"		10		Passed	
+
+
+	"59:27"		10		Passed	
+
+
+	"48:11"		10		Passed	
+
+
+	"32:50"		10		Passed	
+
+
+	"22:15"		6		Passed	
+
+
+	"47:56"		10		Passed	
+
+
+	"05:47"		8		Passed	
+
+
+	"27:45"		10		Passed	
+
+
+	"59:14"		8		Passed	
+
+
+	"37:42"		10		Passed	
+
+
+	"47:26"		10		Passed	
+
+
+	"02:47"		8		Passed	
+
+
+	"20:18"		10		Passed	
+
+
+	"15:40"		10		Passed	
+
+
+	"15:39"		10		Passed	
+
+
+	"23:53"		10		Passed	
+
+
+	"50:57"		10		Passed	
+
+
+	"29:35"		9		Passed	
+
+
+	"07:17"		10		Passed	
+
+
+	"40:11"		10		Passed	
+
+
+	"27:03"		8		Passed	
+
+
+	"38:02"		9		Passed	
+
+
+	"54:02"		9		Passed	
+
+
+	"30:19"		10		Passed	
+
+
+	"02:33"		10		Passed	
+
+
+	"42:07"		10		Passed	
+
+
+	"53:12"		10		Passed	
+
+
+	"07:15"		10		Passed	
+
+
+	"24:43"		10		Passed	
+
+
+	"48:28"		10		Passed	
+
+
+	"35:08"		10		Passed	
+
+
+	"42:25"		8		Passed	
+
+
+	"06:11"		10		Passed	
+
+
+	"30:36"		8		Passed	
+
+
+	"00:56"		10		Passed	
+
+
+	"19:48"		10		Passed	
+
+
+	"35:08"		10		Passed	
+
+
+	"11:53"		10		Passed	
+
+
+	"39:28"		10		Passed	
+
+
+	"19:25"		8		Passed	
+
+
+	"50:43"		10		Passed	
+
+
+	"05:20"		10		Passed	
+
+
+	"33:06"		8		Passed	
+
+
+	"14:13"		9		Passed	
+
+
+	"40:34"		10		Passed	
+
+
+	"05:17"		10		Passed	
+
+
+	"31:44"		10		Passed	
+
+
+	"20:29"		10		Passed	
+
+
+	"41:43"		10		Passed	
+
+
+	"16:53"		10		Passed	
+
+
+	"43:55"		8		Passed	
+
+
+	"22:07"		8		Passed	
+
+
+	"49:36"		8		Passed	
+
+
+	"20:19"		10		Passed	
+
+
+	"02:21"		8		Passed	
+
+
+	"27:16"		10		Passed	
+
+
+	"29:41"		10		Passed	
+
+
+	"24:58"		10		Passed	
+
+
+	"22:58"		10		Passed	

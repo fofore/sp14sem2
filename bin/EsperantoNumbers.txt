@@ -1,0 +1,361 @@
+1		"unu"		Passed	
+
+
+	90		"naudek"		Passed	
+
+
+	11		"dek unu"		Passed	
+
+
+	57		"kvindek sep"		Passed	
+
+
+	1		"unu"		Passed	
+
+
+	2		"du"		Passed	
+
+
+	3		"tri"		Passed	
+
+
+	4		"kvar"		Passed	
+
+
+	5		"kvin"		Passed	
+
+
+	6		"ses"		Passed	
+
+
+	7		"sep"		Passed	
+
+
+	8		"ok"		Passed	
+
+
+	9		"nau"		Passed	
+
+
+	10		"dek"		Passed	
+
+
+	11		"dek unu"		Passed	
+
+
+	12		"dek du"		Passed	
+
+
+	13		"dek tri"		Passed	
+
+
+	14		"dek kvar"		Passed	
+
+
+	15		"dek kvin"		Passed	
+
+
+	16		"dek ses"		Passed	
+
+
+	17		"dek sep"		Passed	
+
+
+	18		"dek ok"		Passed	
+
+
+	19		"dek nau"		Passed	
+
+
+	20		"dudek"		Passed	
+
+
+	21		"dudek unu"		Passed	
+
+
+	22		"dudek du"		Passed	
+
+
+	23		"dudek tri"		Passed	
+
+
+	24		"dudek kvar"		Passed	
+
+
+	25		"dudek kvin"		Passed	
+
+
+	26		"dudek ses"		Passed	
+
+
+	27		"dudek sep"		Passed	
+
+
+	28		"dudek ok"		Passed	
+
+
+	29		"dudek nau"		Passed	
+
+
+	30		"tridek"		Passed	
+
+
+	31		"tridek unu"		Passed	
+
+
+	32		"tridek du"		Passed	
+
+
+	33		"tridek tri"		Passed	
+
+
+	34		"tridek kvar"		Passed	
+
+
+	35		"tridek kvin"		Passed	
+
+
+	36		"tridek ses"		Passed	
+
+
+	37		"tridek sep"		Passed	
+
+
+	38		"tridek ok"		Passed	
+
+
+	39		"tridek nau"		Passed	
+
+
+	40		"kvardek"		Passed	
+
+
+	41		"kvardek unu"		Passed	
+
+
+	42		"kvardek du"		Passed	
+
+
+	43		"kvardek tri"		Passed	
+
+
+	44		"kvardek kvar"		Passed	
+
+
+	45		"kvardek kvin"		Passed	
+
+
+	46		"kvardek ses"		Passed	
+
+
+	47		"kvardek sep"		Passed	
+
+
+	48		"kvardek ok"		Passed	
+
+
+	49		"kvardek nau"		Passed	
+
+
+	50		"kvindek"		Passed	
+
+
+	51		"kvindek unu"		Passed	
+
+
+	52		"kvindek du"		Passed	
+
+
+	53		"kvindek tri"		Passed	
+
+
+	54		"kvindek kvar"		Passed	
+
+
+	55		"kvindek kvin"		Passed	
+
+
+	56		"kvindek ses"		Passed	
+
+
+	57		"kvindek sep"		Passed	
+
+
+	58		"kvindek ok"		Passed	
+
+
+	59		"kvindek nau"		Passed	
+
+
+	60		"sesdek"		Passed	
+
+
+	61		"sesdek unu"		Passed	
+
+
+	62		"sesdek du"		Passed	
+
+
+	63		"sesdek tri"		Passed	
+
+
+	64		"sesdek kvar"		Passed	
+
+
+	65		"sesdek kvin"		Passed	
+
+
+	66		"sesdek ses"		Passed	
+
+
+	67		"sesdek sep"		Passed	
+
+
+	68		"sesdek ok"		Passed	
+
+
+	69		"sesdek nau"		Passed	
+
+
+	70		"sepdek"		Passed	
+
+
+	71		"sepdek unu"		Passed	
+
+
+	72		"sepdek du"		Passed	
+
+
+	73		"sepdek tri"		Passed	
+
+
+	74		"sepdek kvar"		Passed	
+
+
+	75		"sepdek kvin"		Passed	
+
+
+	76		"sepdek ses"		Passed	
+
+
+	77		"sepdek sep"		Passed	
+
+
+	78		"sepdek ok"		Passed	
+
+
+	79		"sepdek nau"		Passed	
+
+
+	80		"okdek"		Passed	
+
+
+	81		"okdek unu"		Passed	
+
+
+	82		"okdek du"		Passed	
+
+
+	83		"okdek tri"		Passed	
+
+
+	84		"okdek kvar"		Passed	
+
+
+	85		"okdek kvin"		Passed	
+
+
+	86		"okdek ses"		Passed	
+
+
+	87		"okdek sep"		Passed	
+
+
+	88		"okdek ok"		Passed	
+
+
+	89		"okdek nau"		Passed	
+
+
+	90		"naudek"		Passed	
+
+
+	91		"naudek unu"		Passed	
+
+
+	92		"naudek du"		Passed	
+
+
+	93		"naudek tri"		Passed	
+
+
+	94		"naudek kvar"		Passed	
+
+
+	95		"naudek kvin"		Passed	
+
+
+	96		"naudek ses"		Passed	
+
+
+	97		"naudek sep"		Passed	
+
+
+	98		"naudek ok"		Passed	
+
+
+	99		"naudek nau"		Passed	
+
+
+	10		"dek"		Passed	
+
+
+	15		"dek kvin"		Passed	
+
+
+	90		"naudek"		Passed	
+
+
+	45		"kvardek kvin"		Passed	
+
+
+	2		"du"		Passed	
+
+
+	20		"dudek"		Passed	
+
+
+	23		"dudek tri"		Passed	
+
+
+	6		"ses"		Passed	
+
+
+	99		"naudek nau"		Passed	
+
+
+	19		"dek nau"		Passed	
+
+
+	1		"unu"		Passed	
+
+
+	50		"kvindek"		Passed	
+
+
+	4		"kvar"		Passed	
+
+
+	88		"okdek ok"		Passed	
+
+
+	11		"dek unu"		Passed	
+
+
+	21		"dudek unu"		Passed	
+
+
+	55		"kvindek kvin"		Passed	
+
+
+	30		"tridek"		Passed	

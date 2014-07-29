@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="sp14sem2">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../../../../Applications/eclipse"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+    <path id="sp14sem2.classpath">
+        <pathelement location="bin"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="sp14sem2.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="AimToTen">
+        <java classname="AimToTen" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="AimToTenDriver">
+        <java classname="AimToTenDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="Arrows">
+        <java classname="Arrows" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ArrowsDriver">
+        <java classname="ArrowsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="BusSeating">
+        <java classname="BusSeating" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="BusSeatingDriver">
+        <java classname="BusSeatingDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ChangingString">
+        <java classname="ChangingString" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ChangingStringDriver">
+        <java classname="ChangingStringDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="DancingSentence">
+        <java classname="DancingSentence" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="DancingSentenceDriver">
+        <java classname="DancingSentenceDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="DestroyBall">
+        <java classname="DestroyBall" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="Elections">
+        <java classname="Elections" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ElectionsDriver">
+        <java classname="ElectionsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="EsperantoNumbers">
+        <java classname="EsperantoNumbers" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="EsperantoNumbersDriver">
+        <java classname="EsperantoNumbersDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="FracCount">
+        <java classname="FracCount" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="FracCountDriver">
+        <java classname="FracCountDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="FriendlySequences">
+        <java classname="FriendlySequences" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="FriendlySequencesDriver">
+        <java classname="FriendlySequencesDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="GrabbingTaxi">
+        <java classname="GrabbingTaxi" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="GrabbingTaxiDriver">
+        <java classname="GrabbingTaxiDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="Inchworm">
+        <java classname="Inchworm" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="InchwormDriver">
+        <java classname="InchwormDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="IncreasedAverage">
+        <java classname="IncreasedAverage" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="InsertionSortCount">
+        <java classname="InsertionSortCount" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="InsertionSortCountDriver">
+        <java classname="InsertionSortCountDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="MooingCows">
+        <java classname="MooingCows" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="MooingCowsDriver">
+        <java classname="MooingCowsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="PartySeats">
+        <java classname="PartySeats" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="PartySeatsDriver">
+        <java classname="PartySeatsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ProblemsToSolve">
+        <java classname="ProblemsToSolve" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ProblemsToSolveDriver">
+        <java classname="ProblemsToSolveDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="RosePetals">
+        <java classname="RosePetals" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="RosePetalsDriver">
+        <java classname="RosePetalsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="RugSizes">
+        <java classname="RugSizes" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="RugSizesDriver">
+        <java classname="RugSizesDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ShipBoxes">
+        <java classname="ShipBoxes" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ShipBoxesDriver">
+        <java classname="ShipBoxesDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SlowKeyboard">
+        <java classname="SlowKeyboard" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SlowKeyboardDriver">
+        <java classname="SlowKeyboardDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SnowyWinter">
+        <java classname="SnowyWinter" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SnowyWinterDriver">
+        <java classname="SnowyWinterDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SpecialDay">
+        <java classname="SpecialDay" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SpecialDayDriver">
+        <java classname="SpecialDayDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="WhiteHats">
+        <java classname="WhiteHats" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="WhiteHatsDriver">
+        <java classname="WhiteHatsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+</project>
