@@ -8,7 +8,7 @@ public class JavaTest {
 		for (int i = 0; i < b.toCharArray().length; i++) {
 			System.out.println(b.toCharArray()[i]);
 			System.out.println("Test the travis");
-			System.out.println("another test);
+			System.out.println("another test");
 		}
 	}
 
