@@ -1,35 +1,30 @@
 
 public class ProblemsToSolve {
-	public static void main(String[] args) {
-		int [] in0 = {1, 2, 3};
-		int in1 = 2;
-		System.out.println(minNumber(in0, in1));
-		
-		int [] in10 = {1, 2, 3, 4, 5};
-		int in11 = 4;
-		System.out.println(minNumber(in10, in11));
-		
-	}
+    public static void main (String[] args) {
 
+        int[] in00 = {1, 2, 3};
+        int in01 = 2;
+        System.out.println(minNumber(in00,in01));
 
-	public static int minNumber(int [] pleaseantness, int variety) {
-		if (pleaseantness.length == 1) {
-			return 1;
-		}
-		boolean noBig = true;
-		for (int i = 1; i < pleaseantness.length; i++) {
-			if (pleaseantness[i] >= variety) {
-				noBig = false;
-				if (i % 2 == 0) {
-					return i / 2 + 1;
-				}else {
-					return i / 2 + 1 + 1;
-				}
-			}
-		}
-		if (noBig) {
-			return pleaseantness.length;
-		}
-		return 0;
-	}
+        int[] in10 = {1, 2, 3, 4, 5};
+        int in11 = 4;
+        System.out.println(minNumber(in10,in11));
+
+        int[] in20 = {10, 1, 12, 101};
+        int in21 = 100;
+        System.out.println(minNumber(in20,in21));
+
+        int[] in30 = {10, 1};
+        int in31 = 9;
+        System.out.println(minNumber(in30,in31));
+
+        int[] in40 = {6, 2, 6, 2, 6, 3, 3, 3, 7};
+        int in41 = 4;
+        System.out.println(minNumber(in40,in41));
+
+    }
+
+    public static int minNumber(int[] pleasantness, int variety) {
+    	return variety;
+    }
 }
