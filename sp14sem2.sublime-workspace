@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"data",
+				"data"
+			],
+			[
+				"da",
+				"dataindex"
+			],
+			[
+				"test",
+				"testNum"
+			],
+			[
+				"para",
+				"paralist"
+			],
+			[
+				"par",
+				"paralist"
+			],
+			[
+				"split",
+				"split"
+			],
+			[
+				"pra",
+				"paraline"
+			],
+			[
+				"cod",
+				"codelineMainEnd"
+			],
+			[
+				"codeline",
+				"codelineEnd"
+			],
+			[
+				"metho",
+				"methodline"
+			],
+			[
+				"code",
+				"codeline"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
 				"ab",
 				"abbreviations"
 			],
@@ -28,20 +80,12 @@
 				"println"
 			],
 			[
-				"line",
-				"linelist"
-			],
-			[
 				"read",
 				"readDataAgain"
 			],
 			[
 				"cha",
 				"change"
-			],
-			[
-				"split",
-				"splitChar"
 			],
 			[
 				"sp",
@@ -127,12 +171,16 @@
 	"build_system": "Packages/Java/JavaC.sublime-build",
 	"command_palette":
 	{
-		"height": 387.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
 				":w",
 				":w - Save"
+			],
+			[
+				":q",
+				"Git: Quick Commit"
 			],
 			[
 				"e",
@@ -195,7 +243,7 @@
 				"Snippet: test"
 			]
 		],
-		"width": 568.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -212,6 +260,11 @@
 	},
 	"file_history":
 	[
+		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/generateDriver.py",
+		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/generateTmp.py",
+		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/Elections.txt",
+		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/generateTmp.python",
+		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/BusinessTasksDriverDriver.java",
 		"/Users/qianminming/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
 		"/Users/qianminming/Google Drive/workspace/ant_test/src/oata/HelloWorld.java",
 		"/Users/qianminming/Google Drive/workspace/ant_test/build.xml",
@@ -224,7 +277,6 @@
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/GrabbingTaxi.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/WhiteHats.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/EsperantoNumbers.txt",
-		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/generateDriver.py",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/ShipBoxes.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/SlowKeyboard.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/FracCount.txt",
@@ -235,7 +287,6 @@
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/InsertionSortCount.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/RugSizes.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/SpecialDay.txt",
-		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/Elections.txt",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/.classpath",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/SpecialDayDriver.java",
 		"/Users/qianminming/Google Drive/workspace/sp14sem2/src/RosePetals.txt",
@@ -292,6 +343,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"list",
+			"readData",
 			"here is me",
 			",",
 			"},",
@@ -417,6 +470,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 158.0,
+	"side_bar_width": 157.0,
 	"status_bar_visible": true
 }

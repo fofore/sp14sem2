@@ -1,0 +1,44 @@
+Definition
+    	
+Class:	ProblemsToSolve
+Method:	minNumber
+Parameters:	int[], int
+Returns:	int
+Method signature:	int minNumber(int[] pleasantness, int variety)
+(be sure your method is public)
+    
+ 
+Constraints
+-	pleasantness will contain between 1 and 50 elements, inclusive.
+-	Each element of pleasantness will be between 0 and 1000, inclusive.
+-	variety will be between 1 and 1000, inclusive.
+ 
+Examples
+0)	
+    	
+{1, 2, 3}
+2
+Returns: 2
+Solve the 0-th problem, and the 2-nd after it.
+1)	
+    	
+{1, 2, 3, 4, 5}
+4
+Returns: 3
+Obviously, the first and the last problems should be solved. Skip a problem ahead twice in a row.
+2)	
+    	
+{10, 1, 12, 101}
+100
+Returns: 3
+3)	
+    	
+{10, 1}
+9
+Returns: 2
+4)	
+    	
+{6, 2, 6, 2, 6, 3, 3, 3, 7}
+4
+Returns: 2
+You can stop after solving the first 2 problems.

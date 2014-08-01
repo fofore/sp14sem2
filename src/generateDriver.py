@@ -91,7 +91,7 @@ def buildSection(counter, input_type, input, output_type, output):
 	section += 'System.out.println("Output expected: " + out%d + " Output recieved: " + tmpVal );\n'%counter
 	if output_type == "String" :
 		section += 'result = tmpVal.equals(out%d);\n'%counter
-	elif output_type  == "String[]":
+	elif "[]" in output_type:
 		section +=  'result = Arrays.equals(tmpVal, out%d);\n'%counter
 	else:
 		section += 'result = tmpVal == out%d;\n'%counter

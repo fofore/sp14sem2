@@ -1,3 +1,8 @@
+import java.util.ArrayList;
+
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane.RestoreAction;
+import javax.swing.text.GapContent;
+
 
 public class ProblemsToSolve {
     public static void main (String[] args) {
@@ -25,6 +30,42 @@ public class ProblemsToSolve {
     }
 
     public static int minNumber(int[] pleasantness, int variety) {
-    	return variety;
+    	int min = pleasantness[0];
+    	int max = pleasantness[0];
+    	for (int i = 0; i < pleasantness.length; i++) {
+    		min = Math.min(min, pleasantness[i]);
+    		max = Math.max(max, pleasantness[i]);
+		}
+    	if(max - min < variety)
+    	{
+    		return pleasantness.length;
+    	}
+    	
+    	int last = Integer.MAX_VALUE;
+    	for (int i = 0; i < pleasantness.length; i++) {
+    		for (int j = i+1; j < pleasantness.length; j++) {
+				if (Math.abs(pleasantness[i] - pleasantness[j]) >= variety) {
+					last = Math.min(last, j);
+				}
+			}
+			
+		}
+    	ArrayList<Integer> possilbe = new ArrayList<Integer>();
+    	for (int i = 0; i <= last; i++) {
+    		if (Math.abs(pleasantness[last] - pleasantness[i]) >= variety) {
+				possilbe.add(i);
+			}
+		}
+    	
+    	int res = Integer.MAX_VALUE;
+    	int tmp = 0;
+		for (int p : possilbe) {
+			//System.out.println(p);
+			tmp = 1 + (p % 2 == 0? p /2 : p/2 + 1);
+			int gap = last - p;
+			tmp += gap % 2 == 0? gap /2 : gap /2+1;
+			res=Math.min(res, tmp);
+		}
+		return res;
     }
 }

@@ -1,0 +1,66 @@
+Definition
+    	
+Class:	ElevatorLimit
+Method:	getRange
+Parameters:	int[], int[], int
+Returns:	int[]
+Method signature:	int[] getRange(int[] enter, int[] exit, int physicalLimit)
+(be sure your method is public)
+    
+ 
+Constraints
+-	enter and exit will have between 1 and 50 elements, inclusive.
+-	enter and exit will have the same number of elements.
+-	Each element of enter and exit will be between 0 and 1000, inclusive.
+-	physicalLimit will be between 1 and 1000, inclusive.
+ 
+Examples
+0)	
+    	
+{1,0}
+{0,1}
+1
+Returns: { 0,  0 }
+With a physicalLimit of one person on the elevator at a time, there had to be 0 to start with.
+1)	
+    	
+{1,0}
+{0,1}
+2
+Returns: { 0,  1 }
+With a physicalLimit of 2 people, the elevator could have started with 0 or 1 people on it.
+2)	
+    	
+{0,1}
+{1,0}
+1
+Returns: { 1,  1 }
+3)	
+    	
+{0,2}
+{1,0}
+1
+Returns: { }
+Since there is only a maximum of 1 person, 2 people cannot get on at the second stop. Therefore, there is no possible solution.
+4)	
+    	
+{6, 85, 106, 1, 199, 76, 162, 141} 
+{38, 68, 62, 83, 170, 12, 61, 114} 
+668
+Returns: { 223,  500 }
+5)	
+    	
+{179, 135, 104, 90, 97, 186, 187, 47, 152, 100, 119, 28, 193, 11, 103, 100,
+ 179, 11, 80, 163, 50, 131, 103, 50, 142, 51, 112, 62, 69, 72, 88, 3, 162,
+ 93, 190, 85, 79, 86, 146, 71, 65, 131, 179, 119, 66, 111} 
+{134, 81, 178, 168, 86, 128, 1, 165, 62, 46, 188, 70, 104, 111, 3, 47, 144,
+ 69, 163, 21, 101, 126, 169, 84, 146, 165, 198, 1, 65, 181, 135, 99, 100,
+ 195, 171, 47, 16, 54, 79, 69, 6, 97, 154, 80, 151, 76} 
+954
+Returns: { 453,  659 }
+6)	
+    	
+{2}
+{3}
+2
+Returns: { }
