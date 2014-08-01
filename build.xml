@@ -17,6 +17,7 @@
         <mkdir dir="bin"/>
         <copy includeemptydirs="false" todir="bin">
             <fileset dir="src">
+                <exclude name="**/*.launch"/>
                 <exclude name="**/*.java"/>
             </fileset>
         </copy>
@@ -275,6 +276,46 @@
     </target>
     <target name="WhiteHatsDriver">
         <java classname="WhiteHatsDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="JavaTest">
+        <java classname="JavaTest" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="VerticalFall">
+        <java classname="VerticalFall" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="BusinessTasks">
+        <java classname="BusinessTasks" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="BusinessTasksDriver">
+        <java classname="BusinessTasksDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ElevatorLimit">
+        <java classname="ElevatorLimit" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="ElevatorLimitDriver">
+        <java classname="ElevatorLimitDriver" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SquareOfDigits">
+        <java classname="SquareOfDigits" failonerror="true" fork="yes">
+            <classpath refid="sp14sem2.classpath"/>
+        </java>
+    </target>
+    <target name="SquareOfDigitsDriver">
+        <java classname="SquareOfDigitsDriver" failonerror="true" fork="yes">
             <classpath refid="sp14sem2.classpath"/>
         </java>
     </target>
