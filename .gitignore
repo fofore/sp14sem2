@@ -1,1 +1,5 @@
-*.class
+*.class*
+*.sublime-*
+*.project
+*.settings
+*org.eclipse*
