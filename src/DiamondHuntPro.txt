@@ -1,0 +1,33 @@
+Definition
+    	
+Class:	DiamondHunt
+Method:	countDiamonds
+Parameters:	String
+Returns:	int
+Method signature:	int countDiamonds(String mine)
+(be sure your method is public)
+    
+ 
+Constraints
+-	mine will contain between 1 and 50 characters, inclusive.
+-	Each character of mine will be either '<' or '>'.
+ 
+Examples
+0)	
+    	
+"><<><>>><"
+Returns: 3
+The example from the problem statement.
+1)	
+    	
+">>>><<"
+Returns: 0
+No diamonds here.
+2)	
+    	
+"<<<<<<<<<>>>>>>>>>"
+Returns: 9
+3)	
+    	
+"><<><><<>>>><<>><<><<>><<<>>>>>><<<"
+Returns: 14

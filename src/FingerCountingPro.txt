@@ -1,0 +1,48 @@
+Definition
+    	
+Class:	FingerCounting
+Method:	maxNumber
+Parameters:	int, int
+Returns:	int
+Method signature:	int maxNumber(int weakFinger, int maxCount)
+(be sure your method is public)
+    
+ 
+Constraints
+-	weakFinger will be between 1 and 5, inclusive.
+-	maxCount will be between 0 and 100000, inclusive.
+ 
+Examples
+0)	
+    	
+2
+3
+Returns: 15
+The first 15 numbers are counted with fingers 1,2,3,4,5,4,3,2,1,2,3,4,5,4,3. He would then have to use finger 2 for the next number, but since he has already used it 3 times, he has to stop.
+1)	
+    	
+1
+0
+Returns: 0
+He needs to use his thumb when counting the first number, 1, but it's too weak to be used even once.
+2)	
+    	
+5
+0
+Returns: 4
+Even though his pinky cannot be used at all, he can count 1,2,3,4 with the other fingers.
+3)	
+    	
+2
+48
+Returns: 193
+4)	
+    	
+5
+973
+Returns: 7788
+5)	
+    	
+3
+99999
+Returns: 399998

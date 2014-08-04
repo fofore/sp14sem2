@@ -3,6 +3,8 @@ import sys
 class_name = sys.argv[1]
 driver_file_stream = open(class_name+".java", 'w')
 driver_file_stream.truncate() #clear the file every time
+out_type = sys.argv[2]
+
 
 def readData():
 	'''
@@ -78,7 +80,10 @@ def buildTestCase(lines, paralist, testNum, method):
 		section += '%s%s in%d%d = %s;\n'%(space8, para, testNum, counter, lines[counter][0])
 		inputlist.append("in%d%d"%(testNum, counter))
 		counter += 1;
-	section += '%sSystem.out.println(%s(%s));\n'%(space8, method, ','.join(inputlist))
+	if '[]' in out_type:
+		section += '%sSystem.out.println(Arrays.toString(%s(%s)));\n'%(space8, method, ','.join(inputlist))
+	else:
+		section += '%sSystem.out.println(%s(%s));\n'%(space8, method, ','.join(inputlist))
 	return section
 
 def getParaTypes(paraline):
