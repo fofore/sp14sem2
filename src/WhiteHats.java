@@ -21,6 +21,7 @@ public class WhiteHats {
 
 	public static int whiteNumber(int [] count) {
 		int max = 0;
+		//check all counts, if one counter bigger than all people, it's wrong, then get the max number
 		for (int i = 0; i < count.length; i++) {
 			if (count[i] >= count.length) {
 				return -1;

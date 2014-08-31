@@ -13,6 +13,7 @@ public class SlowKeyboard {
 	public static int enterTime(String time) {
 		int res = 0;
 		int a = 0, b =0, c = 0, d = 0;
+		//get the number value
 		a = time.charAt(0) - 48;
 		b = time.charAt(1) - 48;
 		c = time.charAt(3) - 48;
